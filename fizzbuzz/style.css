@@ -1,0 +1,82 @@
+*{
+    font-family: helvetica;
+
+}
+
+.fizz{
+    font-size: 35px;
+    font-family: arial;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    color: rgb(161, 171, 171);
+}
+.box{
+    height: 150px;
+    width: 250px;
+    background-color: rgb(226, 223, 223);
+    border-radius: 40px;
+
+}
+.maintext{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 10px;
+    color: rgb(113, 113, 113);
+}
+.text{
+    font-size: 25px;
+}
+.main{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.round1{
+    height: 25px;
+    width: 25px;
+    background-color: rgb(230, 206, 206);
+    border-radius: 50%;
+
+}
+.round2{
+    height: 50px;
+    width: 50px;
+    background-color: rgb(225, 119, 119);
+    border-radius: 50%;
+
+}
+.input{
+    height: 50px;
+    width: 250px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 50px;
+    
+}
+.rec{
+    height: 400px;
+    width: 350px;
+    background-color: rgb(239, 239, 239);
+    margin-left: 540px;
+    margin-top: 20px;
+    border-radius: 20px;
+    padding-top: 5px;
+    
+}
+#number{
+    font-size: 20px;
+    padding-left: 50px;
+} 
+button{
+    height: 40px;
+    width: 250px;
+    background-color: rgb(239, 239, 239);
+   margin-top: 20px;
+   margin-left: 50px;
+   border-radius: 20px;
+}
+.but{
+    background-color: rgb(194, 194, 194);
+}
